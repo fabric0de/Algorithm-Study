@@ -8,11 +8,11 @@
     <td align="center"><a href="https://github.com/westzero77"><b>seoyoung</b></a></td>
     <td align="center"><a href="https://github.com/parkyungmin"><b>gyeongmin</b></a></td>
   </tr>
-  <tr> 
+  <tr>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"><br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"><br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/></td>
-  </tr> 
+  </tr>
 </table>
 
 <br/>
@@ -32,11 +32,15 @@
  ┣ 📂junghyeon
  ┣ 📂seoyoung
  ┃ ┗ 📂{주차}
- ┃   ┗ {날짜_제목.java}
+ ┃   ┗ {플랫폼_날짜_제목.java}
  ┗ 📜README.md
 
-{Github ID}/{주차}/{날짜_제목.java}
+{Github ID}/Week_13/BOJ_240330_a_plus_b.java
 ```
+
+### 주차 계산
+- ISO 8601 기준
+- 참고 : https://littlecandle.co.kr/weekcal.php
 
 <br/>
 
@@ -61,10 +65,10 @@
 ## ⚠️ PR 규칙
 
 ```
-[이름] - {주차} - {문제 개수}
+[이름] {주차} - {문제 개수}
 ```
 
-- 💡 예시: `[junghyeon] [3월 1주차] - 3문제`
+- 💡 예시: `[junghyeon] 13주차 - 3문제`
 
 ---
 
